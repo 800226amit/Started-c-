@@ -1,3 +1,15 @@
+
+/*
+Write a c++ program to find the grade of a student. Take input marks of 3
+subjects and calculate the percentage.
+If percentage >= 85 print A grade,
+If percentage < 85 && percentage >= 75 print B grade,
+If percentage < 75 && percentage >= 50 print C grade,
+If percentage < 50 && percentage >= 30 print D grade,
+If percentage <30 print fai
+*/
+
+
 #include<iostream>
 using namespace std;
 

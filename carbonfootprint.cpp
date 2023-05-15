@@ -72,15 +72,7 @@ cout<< endl;
   cout << "  - Car usage: " << carEmission << " kg CO2 equivalent per month" << endl;
   cout << "  - Air travel: " << airTravelEmission << " kg CO2 equivalent per month" << endl;
   cout << "  - Food consumption: " << foodEmission << " kg CO2 equivalent per month" << endl;
-//   cout << endl;
-//   cout << "Here are some tips to reduce your carbon footprint:" << endl;
-//   cout << "- Use energy-efficient light bulbs and appliances" << endl;
-//   cout << "- Turn off lights and appliances when not in use" << endl;
-//   cout << "- Use a programmable thermostat to reduce heating and cooling costs" << endl;
-//   cout << "- Drive less or switch to a more fuel-efficient car" << endl;
-//   cout << "- Use public transportation or carpool when possible" << endl;
-//   cout << "- Fly less or choose a more fuel-efficient airline" << endl;
-//   cout << "- Reduce food waste and choose more plant-based foods" << endl;
+
 
   return 0;
 }
